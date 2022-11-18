@@ -1,2 +1,5 @@
-# hy
- hi
+<?php
+
+header('location:index.php');
+
+?>
